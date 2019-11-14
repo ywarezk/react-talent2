@@ -1,0 +1,2 @@
+- how do we create components? 
+  - Function / Class

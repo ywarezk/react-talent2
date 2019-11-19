@@ -20,3 +20,15 @@ https://www.youtube.com/playlist?list=PLnHa2cF4cNDtfkYKO6v069GUPYrJtijwc
 - https://il.linkedin.com/in/yariv-katz
 - Add me on linkedin to access the whatsapp group where my videos are shared
 
+### Interview Questions
+
+- What is the VirtualDOM in React ?  
+- Explain JSX ?
+- Two ways to create Components?
+- What cause component to re render
+- describe Component lifecycle?
+- Can we use state in function ?
+- can we use componentDidMount, componentDidUpdate, componentWillUnmount in functions?
+- explain closure?
+- what is composition?
+- explain render props, HOC, custom hooks ? 

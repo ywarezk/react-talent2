@@ -4,6 +4,7 @@ import noop from '../../hoc/noop.hoc';
 import forms from '../../hoc/forms.hoc';
 import Noop from '../../render-props/noop.renderprops';
 
+
 class Register extends React.Component {
     // state = {
     //     name: 'Yariv Katz',

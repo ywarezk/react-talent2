@@ -32,3 +32,19 @@ https://www.youtube.com/playlist?list=PLnHa2cF4cNDtfkYKO6v069GUPYrJtijwc
 - explain closure?
 - what is composition?
 - explain render props, HOC, custom hooks ? 
+- Promise
+- this
+- prototype
+- closure
+- lambda function
+- what is redux?
+- redux architecture?
+- What is SSR?
+- Routing in React
+- what is node
+- express architecture
+- session
+- cookies
+- authentication
+- JWT
+
